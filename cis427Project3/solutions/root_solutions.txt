@@ -1,0 +1,12 @@
+Radius is 3.0: Circle's circumference is 18.85 and area is 28.27
+Error: No shape found
+Error: No sides found
+Sides 2.0: Rectangle's perimeter is 8.00 and area is 4.00
+Sides 2.0 3.0: Rectangle's perimeter is 10.00 and area is 6.00
+Error: Invalid number(s)
+Error: Radius not found
+Radius is 3.0: Circle's circumference is 18.85 and area is 28.27
+Error: Invalid radius
+Error: Invalid number
+Error: Invalid radius
+Sides 2.0 2.0: Rectangle's perimeter is 8.00 and area is 4.00

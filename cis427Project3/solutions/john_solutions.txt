@@ -1,0 +1,9 @@
+Sides 3.0: Rectangle's perimeter is 12.00 and area is 9.00
+Sides 3.0 3.0: Rectangle's perimeter is 12.00 and area is 9.00
+Error: Invalid number(s)
+Error: No sides found
+Error: Missing shape and number(s)
+Error: Radius not found
+Radius is 3.0: Circle's circumference is 18.85 and area is 28.27
+Error: Invalid radius
+Error: Missing shape and number(s)

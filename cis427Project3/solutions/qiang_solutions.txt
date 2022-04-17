@@ -1,0 +1,2 @@
+Sides 2.0 3.0: Rectangle's perimeter is 10.00 and area is 6.00
+Sides 2.0 3.0: Rectangle's perimeter is 10.00 and area is 6.00
